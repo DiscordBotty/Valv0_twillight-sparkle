@@ -296,4 +296,4 @@ client.on('clickButton', async (button) => {
 });
 
 require('./server')();
-client.login('NDgwMDMyMjYwOTkzNTgxMDU2.W3bm4Q.egUcjUJ6s4szsZo7eDlGIstcoDY');
+client.login('BahNonEnFait')
