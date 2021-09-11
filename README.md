@@ -1,2 +1,7 @@
-# Valv0_twillight-sparkle
-c'est un bot d'économie codé par notre developpeuse valv0_rainbowdash
+# Botty.js
+  ## presentation du bot
+  début du projet: 01 septembre 2021
+
+  devloppeurs: AQR_RASTIQ ; bêtawolfy.
+
+  basé sur le projet Rbot. 
